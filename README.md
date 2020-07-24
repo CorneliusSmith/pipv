@@ -4,8 +4,8 @@ A simple way to watch picture in picture videos (PiPv's) on ios 14 directly from
 
 # Why not just use a siri shortcut/ What is this app for
 
-This app was primarily built as a tiny utility tool to workaround not being able to picture and picture in the youtube app.
-It wasnt meant to replace shortcuts for the poeple that use it, it was only built to help me learn iOS development, as its a new hobby I decided to pick up.
+This app was primarily built as a tiny utility tool to workaround not being able to go picture and picture in the youtube app.
+It wasn't meant to replace shortcuts for the poeple that use it, it was only built to help me learn iOS development, as its a new hobby I decided to pick up.
 
 
 # How to download/use
