@@ -1,6 +1,6 @@
 # PiPv's
 
-A simple way to watch picture in picture videos on ios 14 directly from the youtube app or safari.
+A simple way to watch picture in picture videos (PiPv's) on ios 14 directly from the youtube app or safari.
 
 # Why not just use a siri shortcut/ What is this app for
 
