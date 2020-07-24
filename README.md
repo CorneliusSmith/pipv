@@ -33,4 +33,5 @@ Enjoying my tiny utility app and want to help out? hit the link below and donate
 - Starting the video at the same position you left it (You'll have to manually scrub to your position for now)
 - Once I have a dev license putting it up on testflight so it doesnt have to be sideloaded
 
-![Video Demo](ezgif.com-video-to-gif.gif | height = 200)
+# Video Demo
+![Video Demo](ezgif.com-video-to-gif.gif)
