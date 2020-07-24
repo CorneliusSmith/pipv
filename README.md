@@ -17,6 +17,10 @@ It wasnt meant to replace shortcuts for the poeple that use it, it was only buil
 - Hit the 3 dots if PiPv's doesnt show up and share to PiPv's
 - Wait for video to load and go back to homescreen
 
+![Video Demo](ezgif.com-video-to-gif.gif)
+
+
+
 # How to help
 
 Enjoying my tiny utility app and want to help out? hit the link below and donate. Proceeds will go to furthuring development by:
